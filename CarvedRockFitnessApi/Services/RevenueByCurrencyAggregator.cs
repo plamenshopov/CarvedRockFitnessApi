@@ -34,7 +34,7 @@ namespace CarvedRockFitnessApi.Services
                     revenueInCurrencyList.Add(new RevenueInCurrency(currency, currencyOrderValue));
                 }
             }
-            dadasdasdasdas
+           
             return revenueInCurrencyList;
         }
 
